@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2c58fd03.css",
+    "main.js": "/static/js/main.cf0825fd.js",
+    "static/js/453.c597153d.chunk.js": "/static/js/453.c597153d.chunk.js",
+    "static/media/xinloi.mp3": "/static/media/xinloi.278f37454a88e58507d8.mp3",
+    "index.html": "/index.html",
+    "main.2c58fd03.css.map": "/static/css/main.2c58fd03.css.map",
+    "main.cf0825fd.js.map": "/static/js/main.cf0825fd.js.map",
+    "453.c597153d.chunk.js.map": "/static/js/453.c597153d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c58fd03.css",
+    "static/js/main.cf0825fd.js"
+  ]
+}
