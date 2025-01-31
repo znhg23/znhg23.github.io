@@ -1,1 +1,1 @@
-# znhg23.github.io
+# day2-znhg23.github.io
